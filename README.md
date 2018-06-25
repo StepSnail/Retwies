@@ -8,7 +8,6 @@ jskdlafjlkdsj
 sdfdsaf
 
 this is a new rebase
-~~~~~~~~~~~~~~~~~~~~~~~~~~
 test dsfjsd
 
 rebase!!!!!!!!!!!!!!!!!!!!
